@@ -1,0 +1,2 @@
+Amazon Reviews Dataset - https://www.kaggle.com/bittlingmayer/amazonreviews
+GloVe - https://nlp.stanford.edu/projects/glove/
